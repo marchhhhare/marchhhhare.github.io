@@ -16,9 +16,9 @@ http://example.com/2018/08/28/com%E8%AF%BE%E3%81%AE%E8%BF%B7%E6%80%9D/
 http://example.com/2018/02/10/noisli/
 http://example.com/2018/04/14/%E5%92%8Csex%20&%20the%20city%E8%BF%99%E8%8A%82%E8%AF%BE%E6%9C%89%E5%85%B3%E7%9A%84%E4%B8%80%E7%82%B9%E5%BA%9F%E8%AF%9D/
 http://example.com/
-http://example.com/tags/%E6%80%9D%E6%83%B3%E7%A7%8D%E5%AD%90/
 http://example.com/tags/%E5%8B%87%E6%B0%94%E7%BD%90%E5%AD%90/
 http://example.com/tags/%E7%A4%BE%E4%BC%9A%E5%8C%96%E4%BA%A7%E7%89%A9/
+http://example.com/tags/%E6%80%9D%E6%83%B3%E7%A7%8D%E5%AD%90/
 http://example.com/tags/%E6%97%A5%E5%B8%B8/
 http://example.com/tags/%E6%9C%88%E6%9C%AB%E6%80%BB%E7%BB%93/
 http://example.com/tags/%E6%B2%89%E9%BB%98/
